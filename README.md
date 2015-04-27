@@ -6,7 +6,7 @@ Screenshots:
 It uses "http://www.freecurrencyconverterapi.com/" to get currency rates for kazakhstani tenge(by using async task(threads)).
 
 Usage:
-1) Clone repository
+ 1) Clone repository
 2) Open project in Android Studio
 3) Run on your device or emulator
 
