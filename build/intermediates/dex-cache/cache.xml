@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-d93139c3edc8d9ac619dbfb08bebccb83309569e.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ccb1289add5bfab82c2e40a9258b1b15166da561.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-f8fe7d8b93db95fc4fceb51a3281f189c41bec78.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-9e189d5fea99c8b5c868b1b2385bdf8edbdc3e95.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-6b20470c7a0970edf8d19c8f9f7793053cd3de9c.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-6baf52f48e03e2fea1a6bb20a70b2852d15699a4.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-ff244dd389a309c297487b7ec6d92095b8b7a898.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-44b51e992edaf19759ed03656d7b3c661ea16ac9.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-51e854600b219ea42ba3cd08061d118f4369daaf.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-07a75481bc5fb986abb3e74c851722b7242cdef1.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-3e0bc69ac60d0632551b01fe63a6e5ab82dcf4b8.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-652668b0cf135e6f284e8488ab5ac8186a723940.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-87bc6c935e4df454a585d976e6fdab7fcd99e08f.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9008e4e5b0308dcaadfd1e2b562ecd5d039e6134.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-1c66cdd84a1e021df2b8281285594fc543f6bd24.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-cf7fe03736bbdab9afb8a6cb0736930b5212fc1a.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-db5ac925e592e39a96d2576c161e5f490ce51f4e.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-644916d9ae75ff0d642d8338e5095f6762c540c3.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-3adca9495094771c1496dd203a6d05f5898b8e22.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-22db848607019f209da427dcbf93161ba8a8f4fb.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-f8ac6c37d237849ceeb5629fd20dfe2932fb917b.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-e643960b657020b3cba6091eb54e2a8aa05e777d.jar" />
+    </item>
+    <item
+        jar="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/szholdiyarov/GitHub/ConvertYourTenge/app/build/intermediates/pre-dexed/debug/classes-373398dff0c5fffd0462462f0fe8058b7984a360.jar" />
+    </item>
+
+</items>
