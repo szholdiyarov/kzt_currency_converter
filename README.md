@@ -15,5 +15,9 @@ It is NOT final version and will be modified and refactored later.
 
 &copy;	 Sanzhar Zholdiyarov 2015
 
-![Alt text](/pics/Screen Shot 2015-04-27 at 5.18.17 PM.png?raw=true "Optional Title")
 <img src="/pics/Screen Shot 2015-04-27 at 5.18.17 PM.png" width=800 height=1000 />
+<img src="/pics/Screen Shot 2015-04-27 at 5.18.28 PM.png" width=800 height=1000 />
+<img src="/pics/Screen Shot 2015-04-27 at 5.18.37 PM.png" width=800 height=1000 />
+<img src="/pics/Screen Shot 2015-04-27 at 5.18.46 PM.png" width=800 height=1000 />
+<img src="/pics/Screen Shot 2015-04-27 at 5.18.54 PM.png" width=800 height=1000 />
+<img src="/pics/Screen Shot 2015-04-27 at 5.19.01 PM.png" width=800 height=1000 />
