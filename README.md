@@ -14,3 +14,5 @@ Please note:
 It is NOT final version and will be modified and refactored later.
 
 &copy;	 Sanzhar Zholdiyarov 2015
+
+![Alt text](kzt_currency_converter/pics/Screen Shot 2015-04-27 at 5.18.17 PM.png?raw=true "Optional Title")
